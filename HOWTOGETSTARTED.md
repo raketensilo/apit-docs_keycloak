@@ -235,14 +235,14 @@ public class TestsuiteTest extends AbstractTestsuite {
 
 }
 ```
-** 1. beforeAll()**  
+ <strong>1. beforeAll()</strong>
  * The scripts `before.bat` are executed.  
  * Tests are prepared: 'acquiring' `expected` API responses for all tests   
 
-** 2. run()**  
+<strong>2. run()</strong>  
 run the JUnit Dynamic Tests  
 
-** 3. afterAll()**  
+<strong>3. afterAll()</strong>  
 * The script ```after.bat``` is executed.
 ***
 
